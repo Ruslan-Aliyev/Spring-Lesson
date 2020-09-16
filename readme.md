@@ -11,13 +11,15 @@
 		- https://www.javatpoint.com/spring-mvc-crud-example
 - Spring boot: https://www.youtube.com/playlist?list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4 
 
-## Basics: https://github.com/Ruslan-Aliyev/Spring-Lesson/blob/master/theory.md
+## Basics: 
+
+https://github.com/Ruslan-Aliyev/Spring-Lesson/blob/master/theory.md
 
 ## Setup
 
-File -> new -> new Maven Project -> org.apache.maven.archetypes:maven-archetype-webapp
+1. File -> new -> new Maven Project -> org.apache.maven.archetypes:maven-archetype-webapp
 
-From https://mvnrepository.com/ , put the corresponding dependency into the `pom.xml` file
+2. From https://mvnrepository.com/ , put the corresponding dependency into the `pom.xml` file
 
 ```xml
 <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
@@ -31,7 +33,7 @@ From https://mvnrepository.com/ , put the corresponding dependency into the `pom
 
 ![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/create_spring_mvc_proj.PNG)
 
-Link in Tomcat server by right click project in the left-hand-side project explorer -> properties -> targeted runtimes -> new -> select the latest Tomcat (now is v9.0) -> next -> browse and select installation directory.
+3. Link in Tomcat server by right click project in the left-hand-side project explorer -> properties -> targeted runtimes -> new -> select the latest Tomcat (now is v9.0) -> next -> browse and select installation directory.
 
 The installation directory should be the unzipped folder from https://tomcat.apache.org/download-90.cgi
 

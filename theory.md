@@ -29,3 +29,18 @@ Asking Spring to create object
 
 ![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/most_basic_example.PNG)
 
+## Setter injection
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/setter_inj.PNG)
+
+## Constructor injection
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/constr_inj.PNG)
+
+## Injecting objects
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/inj_obj.PNG)
+
+## Injecting objects to collection (list)
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/inj_obj_to_coll.PNG)

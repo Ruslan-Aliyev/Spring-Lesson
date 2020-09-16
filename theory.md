@@ -44,3 +44,11 @@ Asking Spring to create object
 ## Injecting objects to collection (list)
 
 ![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/inj_obj_to_coll.PNG)
+
+## Others
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/others.PNG)
+
+## Autowire
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/autowire.PNG)

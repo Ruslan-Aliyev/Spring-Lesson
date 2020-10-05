@@ -52,3 +52,21 @@ Asking Spring to create object
 ## Autowire
 
 ![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/autowire.PNG)
+
+## Scopes
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/spring_scopes.png)
+
+## Accessing Context in Beans
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/app_context_aware.jpg)
+
+## Bean Inheritance
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/inheritance.jpg)
+
+## LifeCycle
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/lifecycle.png)
+
+https://howtodoinjava.com/spring-core/spring-bean-life-cycle/

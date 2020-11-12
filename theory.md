@@ -70,3 +70,29 @@ Asking Spring to create object
 ![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/lifecycle.png)
 
 https://howtodoinjava.com/spring-core/spring-bean-life-cycle/
+
+## Post Processors
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/Post_Processors.jpg)
+
+## Annotations
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/Annotation_Required.png)
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/Annotation_Autowired.png)
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/Annotation_Other_JSR250.png)
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/Annotation_Stereotypes.png)
+
+## Message Source
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/MessageSource.png)
+
+## Events
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/Event.png)
+
+## Aspect Orientated Programming
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/Aspect.png)

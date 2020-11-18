@@ -96,3 +96,11 @@ https://howtodoinjava.com/spring-core/spring-bean-life-cycle/
 ## Aspect Orientated Programming
 
 ![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/Aspect.png)
+
+https://www.journaldev.com/2583/spring-aop-example-tutorial-aspect-advice-pointcut-joinpoint-annotations
+
+## Data
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/Data1.jpg)
+
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Spring-Lesson/master/Illustrations/Data2.png)
